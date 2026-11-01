@@ -5,7 +5,7 @@ This solution implements a hybrid interference cancellation pipeline. By combini
 
 ## Implementation Details & Reproducibility
 1. **Environment**: Python 3.8+, `numpy`, `scipy`, `gdown`.
-2. **Execution**: Run `python applicant_solution.py`.
+2. **Execution**: Run `python application_solution.py`.
 3. **Workflow**: 
    - The script automatically fetches the `challenge.mat` dataset.
    - It initializes a `InterferenceSuppressor` class which encapsulates the logic.
